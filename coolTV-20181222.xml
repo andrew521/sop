@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<channels version="20181222190103">
+	<group description="Foreign" en="Foreign" id="1" type="1">Foreign<channel btype="0" id="74632" language="RO" type="0">
+			<name>Animal Planet</name>
+			<description>Animal Planet</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/74632</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265007" language="RO" type="0">
+			<name>AXN Spin</name>
+			<description>AXN Spin</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265007</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265004" language="RO" type="0">
+			<name>AXN</name>
+			<description>AXN</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265004</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265006" language="RO" type="0">
+			<name>AXN Crime</name>
+			<description>AXN Crime</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265006</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265005" language="RO" type="0">
+			<name>AXN SciFi</name>
+			<description>AXN SciFi</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265005</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="1489711" language="RO" type="0">
+			<name>BBC Knowledge </name>
+			<description>BBC Knowledge </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/1489711</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264795" language="RO" type="0">
+			<name>Bollywood Clasic</name>
+			<description>Bollywood Clasic</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264795</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264795" language="RO" type="0">
+			<name>Bollywood</name>
+			<description>Bollywood</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264795</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256180" language="RO" type="0">
+			<name>Boomerang</name>
+			<description>Boomerang</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256180</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148254" language="RO" type="0">
+			<name>Cartoon Network </name>
+			<description>Cartoon Network </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148254</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265011" language="RO" type="0">
+			<name>Cinemax </name>
+			<description>Cinemax </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265011</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265012" language="RO" type="0">
+			<name>Cinemax  (1)</name>
+			<description>Cinemax  (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265012</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="253470" language="RO" type="0">
+			<name>Comedy Central </name>
+			<description>Comedy Central </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/253470</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256241" language="RO" type="0">
+			<name>Discovery </name>
+			<description>Discovery </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256241</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265075" language="RO" type="0">
+			<name>Discovery ID </name>
+			<description>Discovery ID </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265075</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="1489741" language="RO" type="0">
+			<name>Discovery Science</name>
+			<description>Discovery Science</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/1489741</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256243" language="RO" type="0">
+			<name>Discovery Science (1)</name>
+			<description>Discovery Science (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256243</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148256" language="RO" type="0">
+			<name>Discovery Travel </name>
+			<description>Discovery Travel </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148256</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264995" language="RO" type="0">
+			<name>Diva Universal </name>
+			<description>Diva Universal </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264995</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256242" language="RO" type="0">
+			<name>Discovery World </name>
+			<description>Discovery World </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256242</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256242" language="RO" type="0">
+			<name>Discovery World  (1)</name>
+			<description>Discovery World  (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256242</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="263081" language="RO" type="0">
+			<name>Euforia Tv </name>
+			<description>Euforia Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/263081</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256469" language="RO" type="0">
+			<name>Eurosport 1</name>
+			<description>Eurosport 1</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256469</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="263056" language="RO" type="0">
+			<name>Eurosport 1 </name>
+			<description>Eurosport 1 </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/263056</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="124991" language="RO" type="0">
+			<name>Eurosport 2</name>
+			<description>Eurosport 2</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/124991</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="257488" language="RO" type="0">
+			<name>Eurosport 2 </name>
+			<description>Eurosport 2 </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/257488</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="116003" language="RO" type="0">
+			<name>Favorit Tv</name>
+			<description>Favorit Tv</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/116003</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256329" language="RO" type="0">
+			<name>Favorit Tv </name>
+			<description>Favorit Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256329</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256238" language="RO" type="0">
+			<name>FilmCafe </name>
+			<description>FilmCafe </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256238</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="140568" language="RO" type="0">
+			<name>Filmbox HD </name>
+			<description>Filmbox HD </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/140568</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="259168" language="RO" type="0">
+			<name>HBO Comedy </name>
+			<description>HBO Comedy </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/259168</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264001" language="RO" type="0">
+			<name>HBO</name>
+			<description>HBO</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264001</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264971" language="RO" type="0">
+			<name>HBO (1)</name>
+			<description>HBO (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264971</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="122866" language="RO" type="0">
+			<name>History</name>
+			<description>History</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/122866</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="263392" language="RO" type="0">
+			<name>History (1)</name>
+			<description>History (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/263392</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="253031" language="RO" type="0">
+			<name>Disney </name>
+			<description>Disney </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/253031</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264357" language="RO" type="0">
+			<name>Disney Junior </name>
+			<description>Disney Junior </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264357</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256331" language="RO" type="0">
+			<name>Kiss Tv </name>
+			<description>Kiss Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256331</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="111594" language="RO" type="0">
+			<name>Litoral Tv </name>
+			<description>Litoral Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/111594</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148262" language="RO" type="0">
+			<name>Look Tv Plus</name>
+			<description>Look Tv Plus</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148262</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="151307" language="RO" type="0">
+			<name>Look Tv Plus (1)</name>
+			<description>Look Tv Plus (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/151307</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="202656" language="RO" type="0">
+			<name>Look Tv Plus (2)</name>
+			<description>Look Tv Plus (2)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/202656</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148262" language="RO" type="0">
+			<name>Look Tv</name>
+			<description>Look Tv</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148262</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="202656" language="RO" type="0">
+			<name>Look Tv (1)</name>
+			<description>Look Tv (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/202656</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="120607" language="RO" type="0">
+			<name>MGM Tv </name>
+			<description>MGM Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/120607</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264768" language="RO" type="0">
+			<name>MiniMax </name>
+			<description>MiniMax </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264768</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149253" language="RO" type="0">
+			<name>Movie Tv </name>
+			<description>Movie Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149253</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265119" language="RO" type="0">
+			<name>Movies24 </name>
+			<description>Movies24 </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265119</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265077" language="RO" type="0">
+			<name>NatGeo HD </name>
+			<description>NatGeo HD </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265077</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265077" language="RO" type="0">
+			<name>NatGeo </name>
+			<description>NatGeo </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265077</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265078" language="RO" type="0">
+			<name>NatGeoWild </name>
+			<description>NatGeoWild </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265078</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149266" language="RO" type="0">
+			<name>Nickelodeon </name>
+			<description>Nickelodeon </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149266</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="253472" language="RO" type="0">
+			<name>Nickelodeon  (1)</name>
+			<description>Nickelodeon  (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/253472</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149256" language="RO" type="0">
+			<name>PRO 2</name>
+			<description>PRO 2</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149256</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256328" language="RO" type="0">
+			<name>Taraf Tv </name>
+			<description>Taraf Tv </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256328</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256335" language="RO" type="0">
+			<name>TCM </name>
+			<description>TCM </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256335</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264997" language="RO" type="0">
+			<name>TV1000 </name>
+			<description>TV1000 </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264997</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="253033" language="RO" type="0">
+			<name>Universal Chanel </name>
+			<description>Universal Chanel </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/253033</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256332" language="RO" type="0">
+			<name>Universal Chanel  (1)</name>
+			<description>Universal Chanel  (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256332</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149269" language="RO" type="0">
+			<name>Via Explorer</name>
+			<description>Via Explorer</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149269</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149268" language="RO" type="0">
+			<name>Via History</name>
+			<description>Via History</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149268</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149267" language="RO" type="0">
+			<name>Via Nature</name>
+			<description>Via Nature</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149267</item>
+			</sop_address>
+		</channel>
+	</group>
+	<group description="Sport" en="Sport" id="2" type="1">Sport<channel btype="0" id="178547" language="RO" type="0">
+			<name>Pro X </name>
+			<description>Pro X </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/178547</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="126976" language="RO" type="0">
+			<name>SportRo</name>
+			<description>SportRo</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/126976</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264245" language="RO" type="0">
+			<name>Telekom Sport 1</name>
+			<description>Telekom Sport 1</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264245</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148982" language="RO" type="0">
+			<name>Telekom Sport 2</name>
+			<description>Telekom Sport 2</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148982</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265026" language="RO" type="0">
+			<name>Telekom Sport 3</name>
+			<description>Telekom Sport 3</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/265026</item>
+			</sop_address>
+		</channel>
+	</group>
+	<group description="Entertainment" en="Entertainment" id="3" type="1">Entertainment<channel btype="0" id="148255" language="RO" type="0">
+			<name>Antena Stars</name>
+			<description>Antena Stars</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148255</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148255" language="RO" type="0">
+			<name>Antena Stars (1)</name>
+			<description>Antena Stars (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148255</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264998" language="RO" type="0">
+			<name>Pro Gold</name>
+			<description>Pro Gold</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264998</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148249" language="RO" type="0">
+			<name>Pro Cinema</name>
+			<description>Pro Cinema</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148249</item>
+			</sop_address>
+		</channel>
+	</group>
+	<group description="News" en="News" id="4" type="1">News<channel btype="0" id="264981" language="RO" type="0">
+			<name>Telekom Info</name>
+			<description>Telekom Info</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://185.224.90.82:3912/264981</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="265009" language="RO" type="0">
+			<name>Telekom Info (1)</name>
+			<description>Telekom Info (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://185.224.90.82:3912/265009</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148084" language="RO" type="0">
+			<name>Antena 3</name>
+			<description>Antena 3</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148084</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264954" language="RO" type="0">
+			<name>B1 TV </name>
+			<description>B1 TV </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264954</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="148258" language="RO" type="0">
+			<name>Romania TV</name>
+			<description>Romania TV</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/148258</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264952" language="RO" type="0">
+			<name>Realitatea</name>
+			<description>Realitatea</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264952</item>
+			</sop_address>
+		</channel>
+	</group>
+	<group description="General" en="General" id="5" type="1">General<channel btype="0" id="122836" language="RO" type="0">
+			<name>Acasa</name>
+			<description>Acasa</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/122836</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="256720" language="RO" type="0">
+			<name>Kanal D</name>
+			<description>Kanal D</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/256720</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="149258" language="RO" type="0">
+			<name>Kanal D (1)</name>
+			<description>Kanal D (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/149258</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264948" language="RO" type="0">
+			<name>National TV</name>
+			<description>National TV</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264948</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="263132" language="RO" type="0">
+			<name>Prima TV</name>
+			<description>Prima TV</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/263132</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264944" language="RO" type="0">
+			<name>Prima TV (1)</name>
+			<description>Prima TV (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264944</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264940" language="RO" type="0">
+			<name>PRO TV </name>
+			<description>PRO TV </description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264940</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="263344" language="RO" type="0">
+			<name>PRO TV  (1)</name>
+			<description>PRO TV  (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/263344</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="145334" language="RO" type="0">
+			<name>Trinitas TV</name>
+			<description>Trinitas TV</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/145334</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264939" language="RO" type="0">
+			<name>TVR 1</name>
+			<description>TVR 1</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264939</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="173285" language="RO" type="0">
+			<name>TVR 1 (1)</name>
+			<description>TVR 1 (1)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/173285</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="173944" language="RO" type="0">
+			<name>TVR 1 (2)</name>
+			<description>TVR 1 (2)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/173944</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="144621" language="RO" type="0">
+			<name>TVR 1 (3)</name>
+			<description>TVR 1 (3)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/144621</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264939" language="RO" type="0">
+			<name>TVR 1 (4)</name>
+			<description>TVR 1 (4)</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264939</item>
+			</sop_address>
+		</channel>
+		<channel btype="0" id="264945" language="RO" type="0">
+			<name>TVR 2</name>
+			<description>TVR 2</description>
+			<status>2</status>
+			<sn>0</sn>
+			<visit_count>0</visit_count>
+			<start_from/>
+			<stream_type/>
+			<kbps>0</kbps>
+			<qs>0</qs>
+			<qc>0</qc>
+			<region en=""/>
+			<class>0</class>
+			<user_count>0</user_count>
+			<sop_address>
+				<item>sop://broker.sopcast.com:3912/264945</item>
+			</sop_address>
+		</channel>
+	</group>
+</channels>
